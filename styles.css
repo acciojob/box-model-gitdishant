@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.hero{
+	height:150px;
+	width:400px;
+	background-color:lightgray;
+	border:5px solid black;
+	border-radius:20px;
+	display:flex;
+	justify-content:center;
+	text-align:center;
+	align-items:center;
+}
+.circle{
+	height:80px;
+	width:80px;
+	border-radius:40px;
+	margin-left:10px;
+}
+.green{
+	background-color:green;
+}
+.yellow{
+	background-color:yellow;
+}
+.red{
+	background-color:red;
+}
